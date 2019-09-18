@@ -1,0 +1,244 @@
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Cloud.config
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\PBIWebApp.dll.config
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\PBIWebApp.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\PBIWebApp.pdb
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Microsoft.Win32.Primitives.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\netstandard.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.AppContext.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Collections.Concurrent.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Collections.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Collections.NonGeneric.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Collections.Specialized.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.ComponentModel.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.ComponentModel.EventBasedAsync.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.ComponentModel.Primitives.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.ComponentModel.TypeConverter.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Console.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Data.Common.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Diagnostics.Contracts.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Diagnostics.Debug.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Diagnostics.FileVersionInfo.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Diagnostics.Process.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Diagnostics.StackTrace.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Diagnostics.Tools.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Diagnostics.TraceSource.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Diagnostics.Tracing.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Drawing.Primitives.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Dynamic.Runtime.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Globalization.Calendars.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Globalization.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Globalization.Extensions.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.IO.Compression.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.IO.Compression.ZipFile.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.IO.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.IO.FileSystem.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.IO.FileSystem.DriveInfo.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.IO.FileSystem.Primitives.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.IO.FileSystem.Watcher.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.IO.IsolatedStorage.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.IO.MemoryMappedFiles.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.IO.Pipes.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.IO.UnmanagedMemoryStream.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Linq.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Linq.Expressions.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Linq.Parallel.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Linq.Queryable.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Net.Http.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Net.NameResolution.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Net.NetworkInformation.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Net.Ping.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Net.Primitives.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Net.Requests.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Net.Security.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Net.Sockets.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Net.WebHeaderCollection.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Net.WebSockets.Client.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Net.WebSockets.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.ObjectModel.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Reflection.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Reflection.Extensions.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Reflection.Primitives.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Resources.Reader.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Resources.ResourceManager.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Resources.Writer.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Runtime.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Runtime.Extensions.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Runtime.Handles.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Runtime.InteropServices.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Runtime.Numerics.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Runtime.Serialization.Formatters.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Runtime.Serialization.Json.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Runtime.Serialization.Primitives.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Runtime.Serialization.Xml.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Security.Claims.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Security.Cryptography.Algorithms.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Security.Cryptography.Csp.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Security.Cryptography.Encoding.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Security.Cryptography.Primitives.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Security.Cryptography.X509Certificates.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Security.Principal.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Security.SecureString.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Text.Encoding.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Text.Encoding.Extensions.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Text.RegularExpressions.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Threading.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Threading.Overlapped.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Threading.Tasks.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Threading.Tasks.Parallel.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Threading.Thread.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Threading.ThreadPool.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Threading.Timer.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.ValueTuple.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Xml.ReaderWriter.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Xml.XDocument.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Xml.XmlDocument.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Xml.XmlSerializer.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Xml.XPath.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Xml.XPath.XDocument.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Microsoft.PowerBI.Api.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Microsoft.Rest.ClientRuntime.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Newtonsoft.Json.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Web.Optimization.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\WebGrease.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Microsoft.Rest.ClientRuntime.xml
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Newtonsoft.Json.pdb
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Newtonsoft.Json.xml
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\System.Web.Optimization.xml
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\obj\Debug\PBIWebApp.csprojAssemblyReference.cache
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\obj\Debug\PBIWebApp.csproj.CoreCompileInputs.cache
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\obj\Debug\PBIWebApp.csproj.CopyComplete
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\obj\Debug\PBIWebApp.dll
+C:\SM TEST\PowerBI-Developer-Samples-master\PowerBI-Developer-Samples-master\User Owns Data\integrate-web-app\PBIWebApp\obj\Debug\PBIWebApp.pdb
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Cloud.config
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\PBIWebApp.dll.config
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\PBIWebApp.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\PBIWebApp.pdb
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Microsoft.Win32.Primitives.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\netstandard.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.AppContext.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Collections.Concurrent.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Collections.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Collections.NonGeneric.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Collections.Specialized.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.ComponentModel.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.ComponentModel.EventBasedAsync.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.ComponentModel.Primitives.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.ComponentModel.TypeConverter.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Console.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Data.Common.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Diagnostics.Contracts.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Diagnostics.Debug.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Diagnostics.FileVersionInfo.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Diagnostics.Process.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Diagnostics.StackTrace.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Diagnostics.Tools.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Diagnostics.TraceSource.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Diagnostics.Tracing.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Drawing.Primitives.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Dynamic.Runtime.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Globalization.Calendars.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Globalization.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Globalization.Extensions.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.IO.Compression.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.IO.Compression.ZipFile.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.IO.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.IO.FileSystem.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.IO.FileSystem.DriveInfo.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.IO.FileSystem.Primitives.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.IO.FileSystem.Watcher.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.IO.IsolatedStorage.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.IO.MemoryMappedFiles.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.IO.Pipes.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.IO.UnmanagedMemoryStream.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Linq.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Linq.Expressions.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Linq.Parallel.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Linq.Queryable.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Net.Http.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Net.NameResolution.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Net.NetworkInformation.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Net.Ping.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Net.Primitives.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Net.Requests.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Net.Security.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Net.Sockets.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Net.WebHeaderCollection.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Net.WebSockets.Client.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Net.WebSockets.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.ObjectModel.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Reflection.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Reflection.Extensions.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Reflection.Primitives.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Resources.Reader.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Resources.ResourceManager.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Resources.Writer.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Runtime.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Runtime.Extensions.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Runtime.Handles.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Runtime.InteropServices.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Runtime.Numerics.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Runtime.Serialization.Formatters.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Runtime.Serialization.Json.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Runtime.Serialization.Primitives.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Runtime.Serialization.Xml.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Security.Claims.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Security.Cryptography.Algorithms.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Security.Cryptography.Csp.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Security.Cryptography.Encoding.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Security.Cryptography.Primitives.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Security.Cryptography.X509Certificates.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Security.Principal.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Security.SecureString.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Text.Encoding.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Text.Encoding.Extensions.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Text.RegularExpressions.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Threading.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Threading.Overlapped.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Threading.Tasks.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Threading.Tasks.Parallel.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Threading.Thread.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Threading.ThreadPool.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Threading.Timer.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.ValueTuple.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Xml.ReaderWriter.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Xml.XDocument.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Xml.XmlDocument.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Xml.XmlSerializer.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Xml.XPath.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Xml.XPath.XDocument.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Microsoft.PowerBI.Api.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Microsoft.Rest.ClientRuntime.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Newtonsoft.Json.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Web.Optimization.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\WebGrease.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Microsoft.Rest.ClientRuntime.xml
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Newtonsoft.Json.pdb
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Newtonsoft.Json.xml
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\System.Web.Optimization.xml
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\obj\Debug\PBIWebApp.csprojAssemblyReference.cache
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\obj\Debug\PBIWebApp.csproj.CoreCompileInputs.cache
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\obj\Debug\PBIWebApp.csproj.CopyComplete
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\obj\Debug\PBIWebApp.dll
+C:\SM TEST\PowerBICode\PBIembed\PBIWebApp\obj\Debug\PBIWebApp.pdb
